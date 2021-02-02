@@ -1,6 +1,6 @@
-# Signal App Clone
+# Signal Messenger App Clone
 
-Facebook messenger Clone App  - Flutter UI  - Flutter Tutorial 
+Signal  messenger Clone App  - Flutter UI  - Flutter Tutorial 
 
 Using Flutter (Dart) ,Enjoy
 
